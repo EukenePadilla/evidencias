@@ -1,1 +1,1 @@
-    
+    # INSTALAR UBUNTU EN UN SERVIDOR 

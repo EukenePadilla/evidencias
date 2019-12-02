@@ -53,3 +53,41 @@ Y reiniciamos el servicio de apache2.
 
 ![](img/tarea1_13.png)
 
+# MYSQL Y PHP 
+
+Instalamos el servidor de mysql.
+
+![](img/tarea1_14.png)
+
+Aquí definimos la constraseña y otras cosas de seguridad de mysql.
+
+![](img/tarea1_15.png)
+![](img/tarea1_16.png)
+
+Vamos a instalar php en la máquina virtual.
+
+![](img/tarea1_17.png)
+
+Le decimos que usaremos apache2 para ejecutar phpMyAdmin.
+
+![](img/tarea1_18.png)
+
+Le diremos que si para poder configurar manualmente la administración de la base de datos.
+
+![](img/tarea1_19.png)
+
+Pondremos una contraseña, en nuestro caso será 1234.
+
+![](img/tarea1_20.png)
+
+Elegimos Unix Socket, ya que esto proporciona el mejor rendimiento.
+
+![](img/tarea1_21.png)
+
+Llamaremos a la base de datos phpmyadmin.
+
+![](img/tarea1_22.png)
+
+Por último le diremos que el usuario con el que se va a conectar sera con root.
+
+![](img/tarea1_23.png)

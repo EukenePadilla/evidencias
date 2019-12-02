@@ -91,3 +91,17 @@ Llamaremos a la base de datos phpmyadmin.
 Por último le diremos que el usuario con el que se va a conectar sera con root.
 
 ![](img/tarea1_23.png)
+
+# CONFIGURAR HTTP Y HTTPS
+
+Ahora configuraremos la máquina para que se pueda acceder a ella por HTTP y HTTPS.
+
+Primero iremos a launch-wizard-1, y le clickaremos en el boton editar.
+
+![](img/tarea1_24.png)
+![](img/tarea1_25.png)
+
+Añadiremos HTTP y HTTPS y apareceran los dos en la sección de Inbound.
+
+![](img/tarea1_26.png)
+![](img/tarea1_27.png)

@@ -28,3 +28,7 @@ Seleccionaremos la IP privada de esa máquina, clickaremos en la casilla de Allo
 Nos saldrá lo siguiente, diciendo que se ha asociado correctamente:
 ![](img/tarea2_8.png)
 
+Si ponemos la dirección IP de la máquina virtual a la que le hemos asignado la IP elastica.
+
+![](img/tarea2_9.png)
+

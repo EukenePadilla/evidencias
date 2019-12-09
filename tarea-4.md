@@ -24,4 +24,5 @@ Para terminar reiniciaremos el servidor usando los siguientes comandos:
 ![](img/tarea4_6.png)
 
 Y poniendo en nuestro navegador las direcciones nos saldrá lo escrito en el index.html de cada carpeta (cliente y servidor).
+
 ![](img/tarea4_7.png)

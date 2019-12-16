@@ -1,6 +1,5 @@
 # TAREA 5: Servidor FTP
 
-
 ![](img/tarea5/1.png)
 ![](img/tarea5/2.png)
 ![](img/tarea5/3.png)
@@ -11,4 +10,5 @@
 ![](img/tarea5/8.png)
 ![](img/tarea5/9.png)
 ![](img/tarea5/10.png)
+![](img/tarea5/11.png)
 
